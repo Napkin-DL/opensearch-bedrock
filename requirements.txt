@@ -16,3 +16,5 @@ anthropic
 faiss-cpu==1.7.4
 pdfplumber
 ipywidgets==7.7.5
+requests
+defusedxml
