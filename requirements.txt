@@ -6,6 +6,7 @@ termcolor
 transformers
 librosa
 opensearch-py==2.4.2
+opensearch-dsl
 pypdf
 spacy
 llmsherpa
